@@ -9,11 +9,6 @@
 
 - 📫 How to reach me **21520519@gm.uit.edu.vn**
 
-<h2 align="center">Connect with me:</h2>
-<p align="left">
-<a href="https://fb.com/thanhtuanuitse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thanhtuanuitse" height="30" width="40" /></a>
-</p>
-
 <h2 align="center">Languages and Tools:</h2>
 
 ###
