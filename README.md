@@ -5,9 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/thtuanlegithub?tab=repositories](https://github.com/thtuanlegithub?tab=repositories)
 
-- 💬 Ask me about **Java, ReactJS, C#, ExpressJS**
+- 💬 Frequently code with **Java, ReactJS, C#, ExpressJS**
 
-- 📫 How to reach me **21520519@gm.uit.edu.vn**
+- 📫 Contact me at gmail: **21520519@gm.uit.edu.vn**
 
 <h2 align="center">Languages and Tools:</h2>
 
