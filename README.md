@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tuan</h1>
-<h2 align="center">A passionate web and mobile developer</h2>
+<h3 align="center">A passionate web and mobile developer</h3>
 
 - 🌱 I’m currently a student at University of Information Technology (VNU-HCM UIT)
   
