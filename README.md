@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tuan</h1>
 <h2 align="center">A passionate web and mobile developer</h2>
 
-- 🌱 I’m currently learning **React Native, Recommendation System, Distributed System**
-
+- 🌱 I’m currently a student at University of Information Technology (VNU-HCM UIT)
+  
 - 👨‍💻 All of my projects are available at [https://github.com/thtuanlegithub?tab=repositories](https://github.com/thtuanlegithub?tab=repositories)
 
 - 💬 Frequently code with **Java, ReactJS, C#, ExpressJS**
