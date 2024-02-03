@@ -10,6 +10,21 @@
 - 📫 Contact me at gmail: **21520519@gm.uit.edu.vn**
 
 
+## Experience and Skills
+
+- **Programming Languages**: C++, Java, C#, JavaScript, Python
+
+- **System Analysis and Design**: Proficient in analyzing and designing systems using tools like PlantUML and StarUML. I can create Use case diagrams, Activity diagrams, Sequence diagrams, and Class diagrams and experienced in crafting Software Requirements Specification (SRS) documents.
+
+- **UI/UX Design**: Proficient in designing user interfaces using Figma, aiming for the best user experience.
+
+- **Frontend Development**: I work with ReactJS to build fast and intuitive user interfaces.
+
+- **Backend Development**: Experienced in backend development using ExpressJS to create robust and flexible systems.
+
+- **Testing**: I use tools like Chai, Sinon, and Stryker for quality assurance and ensuring product stability.
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thanhtuanuitse) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lttuan_) 
 
