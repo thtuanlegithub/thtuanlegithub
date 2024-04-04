@@ -7,28 +7,6 @@
 
 - I am also actively enhance my skills and knowledge in emerging technologies such as Machine Learning, Deep Learning, and Blockchain.
 
-
-## 🔎 Experience and Skills
-
-- **Web Development**: Utilize Express.js and React.js for building robust web applications.
-
-- **Mobile Development**: Experienced in Android Studio (Java) and React Native for creating mobile applications.
-
-- **API Integration**: Skilled in integrating APIs using Express.js and Firebase services.
-
-- **Machine Learning & Big Data**: Experience with some simple, small-scaled project using MLlib (PySpark) for machine learning and data analysis, along with tools like Spark and Kafka for big data processing.
-
-- **Requirement Specification**: Experienced in gathering client requirements, creating Software Requirement Specifications (SRS), and using diagrams to clarify project scope and objectives.
-
-- **Testing**:  Creating CI/CD workflows using ci.yaml files in GitHub. I can set up automated build processes and run test cases as part of the CI pipeline to ensure code quality and reliability
-
-- **UI/ UX Design**: Using Figma to design intuitive and user-friendly interfaces, aiming to improve overall user experience.
-
-- **Project Management**: Experienced in using Agile principles, Scrum methodology, and tools like Trello for effective project management and task tracking.
-
-- **Version Control**: Regularly utilize GitHub for version control and collaborative development.
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thanhtuanuitse) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thtuanle) 
