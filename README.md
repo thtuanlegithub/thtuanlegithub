@@ -1,10 +1,10 @@
-<h4 align="center">Thanh-Tuan Le</h4>
+<h3 align="center">Thanh-Tuan Le</h3>
 
-#### Socials:
+## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thanhtuanuitse) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thtuanle) 
 
-#### Tech
+## Tech stack
 
 ##### Programming Language
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
